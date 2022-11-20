@@ -1,0 +1,7 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+div{
+    display: grid;
+    grid-template-columns: repeat(15, 1fr);
+}
