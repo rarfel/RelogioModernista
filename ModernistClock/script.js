@@ -124,6 +124,7 @@ function relogio(){
             fabrica(onze,'on')
             break;
         case 12:
+        case 0:
             fabrica(doze,'on')
             break;
     }
